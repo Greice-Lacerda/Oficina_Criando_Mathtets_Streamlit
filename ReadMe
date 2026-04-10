@@ -1,9 +1,9 @@
 # MATH⟨⟨FUSION⟩⟩TECH ♾️💻
 ### Oficina Online de Construção de Mathlets com Streamlit
 
-![Banner da Oficina](img/Banner%20Classroom.png)
+![Banner da Oficina](Figura15_Vol1.png)
 
-Este repositório contém o material prático, códigos-base e instruções para a oficina **"Transformando a Análise Real em Aplicações Interativas"**, vinculada ao projeto de extensão (DEPEXT) e à pesquisa de doutorado da **Profa. Dra. Greice Keli Silva Lacerda**.
+Este repositório contém o material prático, códigos-base e instruções para a oficina: **"Transformando a Análise Real em Aplicações Interativas"**, vinculada ao projeto de extensão (DEPEXT) e à pesquisa de doutorado da **Profa. Dra. Greice Keli Silva Lacerda**.
 
 ---
 
@@ -20,3 +20,13 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
 4. No terminal que abrirá na parte inferior, instale as dependências:
    ```bash
    pip install -r requirements.txt
+
+📅 Cronograma dos EncontrosEncontroTemaDescriçãoILógica de SequênciasIntrodução ao Python e limites de sequências.IIInterfaces e GráficosCriação de sliders e visualização com Matplotlib.IIISomas de RiemannAlgoritmos de partição e cálculo de áreas.IVDeploy e AutoriaPublicação do Mathlet no Streamlit Cloud.🛠️ Tecnologias UtilizadasLinguagem: Python 3.10+Web Framework: StreamlitAmbiente: GitHub CodespacesIA Assistente: ChatGPT / GitHub Copilot (como mentoria de código).📂 Estrutura do RepositórioPlaintext├── encontros/
+│   ├── modulo1_sequencias.py
+│   ├── modulo2_graficos.py
+│   └── modulo3_riemann.py
+├── img/
+│   └── (imagens e banners)
+├── README.md
+└── requirements.txt
+📝 LicençaEste projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). Sinta-se à vontade para clonar, estudar e adaptar.Dra. Greice Keli Silva Lacerda Pesquisadora e Professora de Matemática 
