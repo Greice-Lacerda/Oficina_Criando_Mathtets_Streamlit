@@ -28,6 +28,6 @@ Sinta-se à vontade para clonar, estudar, adaptar e aplicar em suas próprias tu
 
 ---
 
-### Profa. Dra. Greice Keli Silva Lacerda\\
-#### Pesquisadora e Professora de Matemática \\
-#### [Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
+### Profa. Dra. Greice Keli Silva Lacerda
+#### Pesquisadora e Professora de Matemática 
+#### Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT
