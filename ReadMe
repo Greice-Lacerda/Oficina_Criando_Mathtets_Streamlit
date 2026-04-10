@@ -1,0 +1,22 @@
+# MATH⟨⟨FUSION⟩⟩TECH ♾️💻
+### Oficina Online de Construção de Mathlets com Streamlit
+
+![Banner da Oficina](img/Banner%20Classroom.png)
+
+Este repositório contém o material prático, códigos-base e instruções para a oficina **"Transformando a Análise Real em Aplicações Interativas"**, vinculada ao projeto de extensão (DEPEXT) e à pesquisa de doutorado da **Profa. Dra. Greice Keli Silva Lacerda**.
+
+---
+
+## 🎯 Objetivo
+Capacitar licenciandos em Matemática a desenvolverem seus próprios **Mathlets** (pequenos aplicativos matemáticos), utilizando a linguagem Python e a biblioteca Streamlit, visando a ressignificação do ensino de Análise Real através da autoria digital.
+
+## 🚀 Como iniciar (Quick Start)
+
+Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, que configura todo o ambiente na nuvem para você:
+
+1. Clique no botão verde **`<> Code`** acima.
+2. Selecione a aba **Codespaces**.
+3. Clique em **`Create codespace on main`**.
+4. No terminal que abrirá na parte inferior, instale as dependências:
+   ```bash
+   pip install -r requirements.txt
