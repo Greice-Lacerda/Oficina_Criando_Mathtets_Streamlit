@@ -21,12 +21,14 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
    ```bash
    pip install -r requirements.txt
 
-📅 Cronograma dos EncontrosEncontroTemaDescriçãoILógica de SequênciasIntrodução ao Python e limites de sequências.IIInterfaces e GráficosCriação de sliders e visualização com Matplotlib.IIISomas de RiemannAlgoritmos de partição e cálculo de áreas.IVDeploy e AutoriaPublicação do Mathlet no Streamlit Cloud.🛠️ Tecnologias UtilizadasLinguagem: Python 3.10+Web Framework: StreamlitAmbiente: GitHub CodespacesIA Assistente: ChatGPT / GitHub Copilot (como mentoria de código).📂 Estrutura do RepositórioPlaintext├── encontros/
-│   ├── modulo1_sequencias.py
-│   ├── modulo2_graficos.py
-│   └── modulo3_riemann.py
-├── img/
-│   └── (imagens e banners)
-├── README.md
-└── requirements.txt
-📝 LicençaEste projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). Sinta-se à vontade para clonar, estudar e adaptar.Dra. Greice Keli Silva Lacerda Pesquisadora e Professora de Matemática 
+##📅 Cronograma dos Encontros
+Encontro	| Tema	               | Descrição
+I	      | 	Lógica de Sequências	| 	Introdução ao Python e limites de sequências reais.
+II		   | Interfaces e Gráficos	| 	Criação de sliders e visualização dinâmica com Matplotlib.
+III		| Somas de Riemann		| Algoritmos de partição e cálculo visual de áreas.
+IV		   | Deploy e Autoria		| Publicação do Mathlet no Streamlit Cloud e reflexões pedagógicas.
+
+##📝 Licença
+Este projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). \\
+Sinta-se à vontade para clonar, estudar e adaptar. \\
+Dra. Greice Keli Silva Lacerda Pesquisadora e Professora de Matemática 
