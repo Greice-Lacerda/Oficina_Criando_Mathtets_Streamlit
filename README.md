@@ -21,13 +21,13 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
    ```bash
    pip install -r requirements.txt
 
-##📝 Licença
+## 📝 Licença
 
 Este projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). 
 Sinta-se à vontade para clonar, estudar, adaptar e aplicar em suas próprias turmas.
 
 ---
 
-###Profa. Dra. Greice Keli Silva Lacerda\\
-####Pesquisadora e Professora de Matemática \\
-####[Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
+### Profa. Dra. Greice Keli Silva Lacerda\\
+#### Pesquisadora e Professora de Matemática \\
+#### [Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
