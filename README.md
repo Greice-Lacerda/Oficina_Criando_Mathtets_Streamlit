@@ -3,7 +3,7 @@
 
 ![Banner da Oficina](Figura15_Vol1.png)
 
-Este repositório contém o material prático, códigos-base e instruções para a oficina: **"Transformando a Análise Real em Aplicações Interativas"**, vinculada ao projeto de extensão (DEPEXT) e à pesquisa de doutorado da **Profa. Dra. Greice Keli Silva Lacerda**.
+Este repositório contém o material prático, códigos-base e instruções para a oficina: **"Transformando a Análise Real em Aplicações Interativas"**, vinculada ao projeto de extensão (DEPEXT) e à pesquisa de doutorado da **Profa. Dra. Greice Keli Silva Lacerda**, orientada pela **Profa. Dra. Márcia Maria Fusaro Pinto**.
 
 ---
 
@@ -21,10 +21,13 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
    ```bash
    pip install -r requirements.txt
 
-📝 LicençaEste projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). 
+##📝 Licença
+
+Este projeto é parte integrante de uma pesquisa acadêmica e está disponível como Recurso Educacional Aberto (REA). 
 Sinta-se à vontade para clonar, estudar, adaptar e aplicar em suas próprias turmas.
 
 ---
-Dra. Greice Keli Silva Lacerda \\
-Pesquisadora e Professora de Matemática \\
-[Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
+
+###Profa. Dra. Greice Keli Silva Lacerda\\
+####Pesquisadora e Professora de Matemática \\
+####[Projeto MATH⟨⟨FUSION⟩⟩TECH | DEPEXT]
