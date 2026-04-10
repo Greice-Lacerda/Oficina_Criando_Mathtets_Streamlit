@@ -1,5 +1,5 @@
-# MATH⟨⟨FUSION⟩⟩TECH ♾️💻
-### Oficina Online de Construção de Mathlets com Streamlit
+#MATH⟨⟨FUSION⟩⟩TECH ♾️💻
+###Oficina Online de Construção de Mathlets com Streamlit
 
 ![Banner da Oficina](Figura15_Vol1.png)
 
@@ -7,7 +7,7 @@ Este repositório contém o material prático, códigos-base e instruções para
 
 ---
 
-## 🎯 Objetivo
+##Objetivo 🎯 
 Capacitar licenciandos em Matemática a desenvolverem seus próprios **Mathlets** (pequenos aplicativos matemáticos), utilizando a linguagem Python e a biblioteca Streamlit, visando a ressignificação do ensino de Análise Real através da autoria digital.
 
 ## 🚀 Como iniciar (Quick Start)
