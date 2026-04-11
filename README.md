@@ -17,9 +17,7 @@ Para facilitar o desenvolvimento, recomendamos o uso do **GitHub Codespaces**, q
 1. Clique no botão verde **`<> Code`** (localizado no topo desta página).
 2. Selecione a aba **Codespaces**.
 3. Clique em **`Create codespace on main`**.
-4. No terminal que abrirá na parte inferior da tela, instale as dependências necessárias executando:
-   ```bash
-   pip install -r requirements.txt
+4. Siga as instruções do Material de Apoio.
 
 ## 📝 Licença
 
